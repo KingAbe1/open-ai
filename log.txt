@@ -1,0 +1,2 @@
+this telegram bot works but hard to deploy code because of credit card restiction but i found one which is free server by they way that let's me deploy but the chrome driver is
+uptodated for the current chrome version on that server, so now I am waiting for the team to update chrome to newer version atleast that what they said.
